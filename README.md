@@ -7,19 +7,19 @@ NRF24 Module for Flipper Zero
 </p>
 
 <p align="center">
-  <img src="images/qr.jpg" width="70%" style="max-width:700px; height:auto;" alt="qr code">
+  <img src="images/qr.png" width="70%" style="max-width:700px; height:auto;" alt="qr code">
 </p>
 
 <p align="center">
-  <img src="images/schematic.jpg" width="70%" style="max-width:700px; height:auto;" alt="schematic">
+  <img src="images/schematic.png" width="70%" style="max-width:700px; height:auto;" alt="schematic">
 </p>
 
 <p align="center">
-  <img src="images/routing.jpg" width="60%" style="max-width:500px; height:auto;" alt="routing">
+  <img src="images/routing.png" width="60%" style="max-width:500px; height:auto;" alt="routing">
 </p>
 
 <p align="center">
-  <img src="images/bottom.jpg" width="60%" style="max-width:500px; height:auto;" alt="bottom view">
+  <img src="images/bottom.png" width="60%" style="max-width:500px; height:auto;" alt="bottom view">
 </p>
 
 <p align="center">
