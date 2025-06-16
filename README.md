@@ -22,9 +22,7 @@ NRF24 Module for Flipper Zero
   <img src="images/bottom.png" width="60%" style="max-width:500px; height:auto;" alt="bottom view">
 </p>
 
-<p align="center">
-  <img src="images/gerber.zip" width="60%" style="max-width:500px; height:auto;" alt="gerber file">
-</p>
+
 
 <hr>
 
